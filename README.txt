@@ -4,7 +4,7 @@ This README.txt file was generated on 2023-01-10 by Thomas J. Yamashita
 GENERAL INFORMATION
 
 1. Title of Dataset: Influence of traffic volume on mammal beta diversity within the road effect zone
-	This data is associated with the manuscript, titled Influence of traffic volume on mammal beta diversity within the road effect zone, available here: XXXX
+	This data is associated with the manuscript, titled Influence of traffic volume on mammal beta diversity within the road effect zone, available here: https://github.com/tomyamashita/BetaDiversityInRoadEffectZone
 
 2. Author Information
 	Thomas J. Yamashita
